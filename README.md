@@ -1,7 +1,6 @@
-# angularfire-clean
+# angular-firebase-codebin
 
-This project is generated with [yo angular generator](https://github.com/yeoman/generator-angular)
-version 1.0.0.
+Clean code-bin for starting an Angular-Firebase Application.
 
 ## Build & development
 
